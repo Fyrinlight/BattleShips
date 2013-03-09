@@ -1,6 +1,17 @@
-*.class
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# netbeans
+/nbproject
+
+# maven
+/target
+
+# ant
+/bin
+/dist
+
+# vim
+.*.sw[a-p]
