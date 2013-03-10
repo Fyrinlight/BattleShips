@@ -4,6 +4,12 @@ Movement:
     Full Spead Ahead
     Manuver Engine
     Burner
+Building:
+  Burner:
+    Netherack + Flame
+  Fuel Holders:
+    Cauldrin:
+      Can hold: 128
 
 
 -----o0o-----Extra Features in our plugin-----o0o-----
@@ -11,6 +17,7 @@ Movement:
 
 
 -----o0o-----Future Ideas-----o0o-----
-
+*Owner-only fly
+*Blocks = weapons
 *Player Detection.
 *Missle Radar
