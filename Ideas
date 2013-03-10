@@ -1,14 +1,14 @@
 -----o0o-----Basic Core Features-----o0o-----
 Movement:
   Signs:
-    Full Spead Ahead
-    Manuver Engine
+    Multi-Speed Ahead: ie; FTL, EOT, SLE
+    Maneuver Engine
     Burner
 Building:
   Burner:
     Netherack + Flame
   Fuel Holders:
-    Cauldrin:
+    Cauldron:
       Can hold: 128
 
 
@@ -21,3 +21,5 @@ Building:
 *Blocks = weapons
 *Player Detection.
 *Missle Radar
+*Underwater Ships: ie; Submarines
+*Larger Ships Use More Fuel
